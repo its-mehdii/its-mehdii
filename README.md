@@ -24,6 +24,4 @@ Video Editor • Motion Graphics Enthusiast
 
 Computer Engineering Student at Yazd University
 
-### ⚽ Interests
-
-<img src="https://emojis.slackmojis.com/emojis/images/1737542828/111990/barca.png?1737542828" width="35" /> FC Barcelona
+<img src="https://emojis.slackmojis.com/emojis/images/1737542828/111990/barca.png?1737542828" width="35" /> Visça Barça 🤘🏻💙❤️
