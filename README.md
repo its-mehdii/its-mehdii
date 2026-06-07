@@ -24,4 +24,4 @@ Video Editor • Motion Graphics Enthusiast
 
 Computer Engineering Student at Yazd University
 
-<img src="https://emojis.slackmojis.com/emojis/images/1737542828/111990/barca.png?1737542828" width="35" /> Visça Barça 🤘🏻💙❤️
+<img src="https://emojis.slackmojis.com/emojis/images/1737542828/111990/barca.png?1737542828" width="35" /> Visça Barça <img src="https://emojis.slackmojis.com/emojis/images/1643515298/13179/lightblue_heartspin.gif?1643515298" width="30" />   <img src="https://emojis.slackmojis.com/emojis/images/1643515227/12453/red_heart.png?1643515227" width="30" />
