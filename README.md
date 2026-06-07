@@ -23,6 +23,7 @@ Video Editor • Motion Graphics Enthusiast
 </p>
 <img src="https://emojis.slackmojis.com/emojis/images/1643514652/6585/photoshop.png?1643514652" width="40" />
 <img src="https://emojis.slackmojis.com/emojis/images/1661987454/61052/adobe_premiere.png?1661987454" width="40" />
+<img src="https://emojis.slackmojis.com/emojis/images/1682406840/65539/adobe-after-effects.gif?1682406840" width="40" />
 ### 🎓 Education
 
 Computer Engineering Student at Yazd University
