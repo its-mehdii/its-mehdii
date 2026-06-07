@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mahdi</h1>
+# Hi <img src="https://emojis.slackmojis.com/emojis/images/1621155388/39455/frog_nod.gif" width="30"/>, I'm Mehdi Ghasemi
+
+
 
 <p align="center">
 Video Editor • Motion Graphics Enthusiast
