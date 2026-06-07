@@ -21,6 +21,6 @@ Video Editor • Motion Graphics Enthusiast
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
-🎓 Education
+### 🎓 Education
 
 Computer Engineering Student at Yazd University
