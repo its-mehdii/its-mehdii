@@ -21,9 +21,6 @@ Video Editor • Motion Graphics Enthusiast
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
-<img src="https://emojis.slackmojis.com/emojis/images/1643514652/6585/photoshop.png?1643514652" width="40" />
-<img src="https://emojis.slackmojis.com/emojis/images/1661987454/61052/adobe_premiere.png?1661987454" width="40" />
-<img src="https://emojis.slackmojis.com/emojis/images/1682406840/65539/adobe-after-effects.gif?1682406840" width="40" />
 ### 🎓 Education
 
 Computer Engineering Student at Yazd University
