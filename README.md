@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 
 <p align="center">
-Python Developer • Video Editor • Motion Graphics Enthusiast
+Video Editor • Motion Graphics Enthusiast
 </p>
 
 ### 🛠️ Languages & Tools
