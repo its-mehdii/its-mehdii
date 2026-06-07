@@ -4,6 +4,7 @@
 Video Editor • Motion Graphics Enthusiast
 </p>
 
+<img src="https://emojis.slackmojis.com/emojis/images/1646380484/55170/fc_barcelona.png?1646380484" width="35" /><img src="https://emojis.slackmojis.com/emojis/images/1643515298/13179/lightblue_heartspin.gif?1643515298" width="30" /><img src="https://emojis.slackmojis.com/emojis/images/1643515227/12453/red_heart.png?1643515227" width="30" />
 ### 🛠️ Languages & Tools
 
 <p align="left">
@@ -24,4 +25,13 @@ Video Editor • Motion Graphics Enthusiast
 
 Computer Engineering Student at Yazd University
 
-<img src="https://emojis.slackmojis.com/emojis/images/1646380484/55170/fc_barcelona.png?1646380484" width="35" /><img src="https://emojis.slackmojis.com/emojis/images/1643515298/13179/lightblue_heartspin.gif?1643515298" width="30" /><img src="https://emojis.slackmojis.com/emojis/images/1643515227/12453/red_heart.png?1643515227" width="30" />
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
